@@ -45,7 +45,7 @@ Recommendations:
 
 Dashboard Report View
 Report View 1 – High Performance
- 
+ https://github.com/MiracleAnalytics/GlobalTechRetail-Sales-Data/blob/main/GlobalTechRetail%20Sales%20Data%20(Top%20Performance).jpg
 
 Report View 2 – Low Performance
  
